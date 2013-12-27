@@ -1,7 +1,7 @@
 {
   "name": "jstore",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Minimalistic JSON-based persistence layer",
   "main": "./lib/jstore.js",
   "homepage": "https://github.com/vesln/jstore",
   "scripts": {
