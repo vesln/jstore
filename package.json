@@ -19,5 +19,8 @@
     "istanbul": "~0.1.44"
   },
   "author": "Veselin Todorov <hi@vesln.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "super": "~0.2.3"
+  }
 }
