@@ -1,6 +1,5 @@
 [![NPM version](https://badge.fury.io/js/jstore.png)](http://badge.fury.io/js/jstore)
 [![Build Status](https://secure.travis-ci.org/vesln/jstore.png)](http://travis-ci.org/vesln/jstore)
-[![Coverage Status](https://coveralls.io/repos/vesln/jstore/badge.png?branch=master)](https://coveralls.io/r/vesln/jstore?branch=master)
 
 # jstore
 

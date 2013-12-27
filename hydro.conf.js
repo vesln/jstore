@@ -26,7 +26,8 @@ module.exports = function(hydro) {
     },
     tests: ['test/*.js'],
     plugins: [
-      'hydro-bdd'
+      'hydro-bdd',
+      'hydro-file-suite'
     ]
   });
 };

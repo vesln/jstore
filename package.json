@@ -16,11 +16,12 @@
     "hydro-dot": "*",
     "hydro-bdd": "*",
     "coveralls": "~2.3.0",
-    "istanbul": "~0.1.44"
+    "istanbul": "~0.1.44",
+    "hydro-file-suite": "0.0.1"
   },
   "author": "Veselin Todorov <hi@vesln.com>",
   "license": "MIT",
   "dependencies": {
-    "super": "~0.2.3"
+    "glob": "~3.2.7"
   }
 }
