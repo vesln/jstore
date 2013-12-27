@@ -63,9 +63,7 @@ clean-cov:
 # CI
 #
 
-ci:
-	@./node_modules/.bin/istanbul cover ./node_modules/.bin/_hydro --report lcovonly -- \
-		&& cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
+ci: test-cov
 
 #
 # Instructions

@@ -5,7 +5,28 @@
 
 ## Synopsis
 
-## Description
+Minimalistic JSON-based persistence layer
+
+## API
+
+### write
+
+```js
+var data = { foo: 'bar' };
+var path = '/tmp/test.json';
+
+jstore.write(path, data, function(err) {});
+```
+
+### read
+
+```js
+var glob = '/tmp/*.json';
+var path = '/tmp/1.json';
+
+jstore.read(glob, function(err, records) {});
+jstore.read(path, function(err, records) {});
+```
 
 ## Installation
 

@@ -15,7 +15,6 @@
     "hydro": "*",
     "hydro-dot": "*",
     "hydro-bdd": "*",
-    "coveralls": "~2.3.0",
     "istanbul": "~0.1.44",
     "hydro-file-suite": "0.0.1"
   },
