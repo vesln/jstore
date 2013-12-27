@@ -1,0 +1,23 @@
+{
+  "name": "jstore",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./lib/jstore.js",
+  "homepage": "https://github.com/vesln/jstore",
+  "scripts": {
+    "test": "hydro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vesln/jstore"
+  },
+  "devDependencies": {
+    "hydro": "*",
+    "hydro-dot": "*",
+    "hydro-bdd": "*",
+    "coveralls": "~2.3.0",
+    "istanbul": "~0.1.44"
+  },
+  "author": "Veselin Todorov <hi@vesln.com>",
+  "license": "MIT"
+}
